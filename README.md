@@ -1,6 +1,6 @@
 # GreenDao
 GreenDao
-> 转载请指明出处 WangYouHu版权归博主所有
+> 转载请指明出处 WangYouHu版权归github博主所有
 
 
 ![](https://img-blog.csdnimg.cn/20181208024059794.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxOTEyNDQ3,size_16,color_FFFFFF,t_70)
